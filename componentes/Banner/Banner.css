@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+.banner {
+    text-align: center;
+}
+
+.banner img {
+    max-width: 100%;
+}
+
+.texto {
+    margin-top: -600px;
+    position: absolute;
+    font-family: 'Poppins';
+    background-color: rgb(255, 244, 145);
+    opacity: 50%;
+    font-size: 207px;
+    margin-left: 25px;
+}
