@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+
+
+.formulario{
+    display: flex;
+    justify-content: center;
+    margin:80px 0;
+    position: static;
+    font-family: 'Poppins';
+}
+
+.formulario form{
+    max-width: 80%;
+    background-color: #fcf592;
+    border-radius: 20px;
+    padding: 36px 64px;
+    box-shadow: 8px 8px 16px rgba(0,0,0,0.08);
+}
